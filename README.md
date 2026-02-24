@@ -12,7 +12,7 @@ Projeto desenvolvido para praticar conceitos iniciais de análise de dados usand
 analise-dados-python/
 ├── Aula_01_Introducao_a_Analise_de_Dados_com_Python.ipynb
 ├── data/
-│ └── vendas_brasil.csv
+└── vendas_brasil.csv
 
 
 ## ▶️ Como executar
